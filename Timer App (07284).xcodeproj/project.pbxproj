@@ -13,6 +13,7 @@
 		C48B02012B85353B00F117C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C48B01FF2B85353B00F117C1 /* Main.storyboard */; };
 		C48B02032B85353B00F117C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C48B02022B85353B00F117C1 /* Assets.xcassets */; };
 		C48B02062B85353B00F117C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C48B02042B85353B00F117C1 /* LaunchScreen.storyboard */; };
+		C48B020E2B85369200F117C1 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C48B020D2B85369200F117C1 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C48B02022B85353B00F117C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C48B02052B85353B00F117C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C48B02072B85353B00F117C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C48B020D2B85369200F117C1 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				C48B02022B85353B00F117C1 /* Assets.xcassets */,
 				C48B02042B85353B00F117C1 /* LaunchScreen.storyboard */,
 				C48B02072B85353B00F117C1 /* Info.plist */,
+				C48B020D2B85369200F117C1 /* alarm_sound.mp3 */,
 			);
 			path = "Timer App (07284)";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				C48B02062B85353B00F117C1 /* LaunchScreen.storyboard in Resources */,
 				C48B02032B85353B00F117C1 /* Assets.xcassets in Resources */,
+				C48B020E2B85369200F117C1 /* alarm_sound.mp3 in Resources */,
 				C48B02012B85353B00F117C1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
